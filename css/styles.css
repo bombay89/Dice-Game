@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Neonderthaw', cursive;
+  font-size: 5rem;
+  color: white;
+  margin: 0;
+}
+
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2rem;
+  color: white;
+}
+
+img {
+  width: 18.75rem;
+}
+
+footer {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: white;
+}
+
+.dice1 {
+  display: inline-block;
+  width: 25%;
+  margin: 2%;
+}
+
+.dice2 {
+  display: inline-block;
+  width: 25%;
+  margin: 2%;
+}
